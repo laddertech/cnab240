@@ -140,14 +140,16 @@
         "nome": "agencia_cobradora",
         "posicao_inicio": 100,
         "posicao_fim": 104,
-        "formato": "num"
+        "formato": "num",
+        "default": 0
       },
 
       "20.3T": {
         "nome": "agencia_cobradora_dv",
         "posicao_inicio": 105,
         "posicao_fim": 105,
-        "formato": "num"
+        "formato": "alfa",
+        "default": ""
       },
 
       "21.3T": {
