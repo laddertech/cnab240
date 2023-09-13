@@ -2,7 +2,7 @@
   "nome": "HeaderArquivo",
   "campos": {
     "01.0": {
-      "nome": "controle_banco",
+      "nome": "codigo_banco",
       "posicao_inicio": 1,
       "posicao_fim": 3,
       "formato": "num",
@@ -10,7 +10,7 @@
     },
 
     "02.0": {
-      "nome": "controle_lote",
+      "nome": "lote_servico",
       "posicao_inicio": 4,
       "posicao_fim": 7,
       "formato": "num",
@@ -18,7 +18,7 @@
     },
 
     "03.0": {
-      "nome": "controle_registro",
+      "nome": "tipo_registro",
       "posicao_inicio": 8,
       "posicao_fim": 8,
       "formato": "num",
